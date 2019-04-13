@@ -13,8 +13,8 @@ namespace SensorTelemetrySenderApp
 
         public static void Main(string[] args)
         {
-            var connectionString = @"Endpoint=sb://iomegeh.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=i6t/ZNhYlPZ9dtVHHzxZ2AVm/vOr8HuUKHHx8bgwCoI=";
-            var eventHubPath = "sensorreadings";
+            var connectionString = Environment.GetEnvironmentVariable("EventHubConnectionString");
+            var eventHubPath = Environment.GetEnvironmentVariable("EventHubPath");
 
             Console.WriteLine("Press [ENTER] to start sending sensor readings to EH ...");
             Console.ReadLine();

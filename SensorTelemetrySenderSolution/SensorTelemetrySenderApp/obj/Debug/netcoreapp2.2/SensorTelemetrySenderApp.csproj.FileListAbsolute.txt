@@ -1,0 +1,11 @@
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\bin\Debug\netcoreapp2.2\SensorTelemetrySenderApp.deps.json
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\bin\Debug\netcoreapp2.2\SensorTelemetrySenderApp.runtimeconfig.json
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\bin\Debug\netcoreapp2.2\SensorTelemetrySenderApp.runtimeconfig.dev.json
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\bin\Debug\netcoreapp2.2\SensorTelemetrySenderApp.dll
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\bin\Debug\netcoreapp2.2\SensorTelemetrySenderApp.pdb
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.csproj.CoreCompileInputs.cache
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.AssemblyInfoInputs.cache
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.AssemblyInfo.cs
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.dll
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.pdb
+C:\0-AzureAnalytics\Demonstrations\SensorTelemetrySenderSolution\SensorTelemetrySenderApp\obj\Debug\netcoreapp2.2\SensorTelemetrySenderApp.csprojAssemblyReference.cache

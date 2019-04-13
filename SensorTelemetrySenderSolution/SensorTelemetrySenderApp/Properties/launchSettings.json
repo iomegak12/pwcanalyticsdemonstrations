@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SensorTelemetrySenderApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EventHubPath": "sensorreadings",
+        "EventHubConnectionString": "Endpoint=sb://iomegeh.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=i6t/ZNhYlPZ9dtVHHzxZ2AVm/vOr8HuUKHHx8bgwCoI="
+      }
+    }
+  }
+}
